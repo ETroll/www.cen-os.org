@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Cen OS
+title: Cen OS Project
 email: karl.syvert@myerart.net
 description: >
   Write an awesome description for your new site here. You can edit this
@@ -26,6 +26,10 @@ url: "http://www.cen-os.org"
 timezone: Europe/Oslo
 excerpt_separator: <!--more-->
 highlighter: "rouge"
+
+sass:
+    sass_dir: _sass
+    style: compressed
 
 exclude:
     - README.md
