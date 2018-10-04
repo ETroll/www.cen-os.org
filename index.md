@@ -3,9 +3,7 @@ title: Home
 layout: home
 ---
 
-# overskrift
+# Cen-OS
 
-Dette er en indeks side!
+Tom webside for cen-os prosjektet. Mulig prosjektet er dødt..
 
-## enda overskrift
-Noe mer?
